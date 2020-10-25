@@ -1,9 +1,9 @@
-# gshop
+###项目介绍
 
-> A Vue.js project
-
-## Build Setup
-
+> gshop-client硅谷外卖前台
+> gshop-server硅谷外卖后台
+###技术参考
+ ##前台
 ``` bash
 # install dependencies
 npm install
