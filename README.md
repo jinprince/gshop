@@ -1,6 +1,6 @@
 <h1>项目介绍<h1>
 
-> gshop-client硅谷外卖前台
+> <h3>gshop-client硅谷外卖前台<h3><br>
 > gshop-server硅谷外卖后台
 ###技术参考
  ##前台
