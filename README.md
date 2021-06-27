@@ -1,7 +1,7 @@
 <h1>项目介绍<h1>
 
-> <h3>gshop-client硅谷外卖前台<h3><br>
-> gshop-server硅谷外卖后台
+> <h3>gshop-client外卖前台<h3><br>
+> gshop-server外卖后台
   
 ``` bash
 # install dependencies
